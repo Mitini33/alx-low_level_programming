@@ -1,5 +1,4 @@
-cat main.c 
-#include <stdio.h>
+7 #include <stdio.h>
 
 /**
  * main - Entry point

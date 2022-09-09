@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFILE >> cn
+gcc -E -o c $CFILE >> cn
